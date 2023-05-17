@@ -1,27 +1,4 @@
 
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-      margin: 20px;
-    }
-
-    h1 {
-      font-size: 28px;
-      margin-bottom: 20px;
-    }
-
-    h2 {
-      font-size: 22px;
-      margin-bottom: 15px;
-    }
-
-    code {
-      font-family: Consolas, monospace;
-      background-color: #f2f2f2;
-      padding: 2px 5px;
-      border-radius: 4px;
-    }
-  </style>
 </head>
 
 <body>
